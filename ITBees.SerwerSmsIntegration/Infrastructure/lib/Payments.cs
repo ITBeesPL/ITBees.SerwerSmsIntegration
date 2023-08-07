@@ -13,7 +13,7 @@ using serwersms;
 using System.Web;
 using System.IO;
 using System.Linq;
-using DwServices.SmsSender.Infrastructure;
+using ITBees.SerwerSmsIntegration.Infrastructure;
 
 namespace serwersms.lib
 {

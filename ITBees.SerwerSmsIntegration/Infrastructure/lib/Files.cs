@@ -9,7 +9,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using DwServices.SmsSender.Infrastructure;
+using ITBees.SerwerSmsIntegration.Infrastructure;
 using serwersms;
 
 namespace serwersms.lib

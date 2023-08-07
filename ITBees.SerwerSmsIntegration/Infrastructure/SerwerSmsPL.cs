@@ -1,15 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Net;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml;
+﻿using System.Net;
 using Newtonsoft.Json;
 using serwersms.lib;
 
-namespace DwServices.SmsSender.Infrastructure
+namespace ITBees.SerwerSmsIntegration.Infrastructure
 {
 	public class SerwerSmsPL
 	{

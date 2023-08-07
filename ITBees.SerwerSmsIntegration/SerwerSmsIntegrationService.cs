@@ -1,5 +1,5 @@
-﻿using DwServices.SmsSender.Infrastructure;
-using ITBees.Interfaces.Platforms;
+﻿using ITBees.Interfaces.Platforms;
+using ITBees.SerwerSmsIntegration.Infrastructure;
 using Microsoft.Extensions.Logging;
 
 namespace ITBees.SerwerSmsIntegration

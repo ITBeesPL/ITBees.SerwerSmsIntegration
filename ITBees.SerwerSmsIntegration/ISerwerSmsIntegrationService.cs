@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-
-namespace DwServices.SmsSender.Infrastructure
+﻿namespace ITBees.SerwerSmsIntegration
 {
     public interface ISerwerSmsIntegrationService
     {
